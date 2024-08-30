@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Bala Guhanesh, A Computer Science engineering student from VIT Chennai, India.
-- 👀 I’m interested in Natural language processing and Machine learning. 
-- 💞️ I’m looking to collaborate on interesting projects related to my field of interest and experience a lot. 
-- 📫 You can reach me through mail : gsbalaguhanesh@gmail.com, linkedin : linkedin.com/in/balaguhanesh/
-- ⚡ Always love to interact and learn with new people and things! lets get connected.
+# 👋 Hello, I'm Bala Guhanesh!
 
-<!---
-bala-guhan/bala-guhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Computer Science Engineering Student**  
+📍 VIT Chennai, India
+
+---
+
+### 🚀 About Me
+
+- 🌟 **Passionate About**: Natural Language Processing (NLP) and Machine Learning
+- 🤝 **Open to Collaborate On**: Exciting projects that align with my interests and experience
+- ⚡ **Always Eager to**: Interact, learn, and connect with new people and innovative ideas
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email**: [gsbalaguhanesh@gmail.com](mailto:gsbalaguhanesh@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/balaguhanesh](https://linkedin.com/in/balaguhanesh)
+
+---
+
+✨ **Let’s connect and create something amazing together!** ✨
