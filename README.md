@@ -1,6 +1,6 @@
 # Bala Guhanesh G S
 
-![Profile Photo](path-to-your-photo.jpg)
+![Profile Photo](riubwiubib.png)
 
 ### Computer Science Engineering Student  
 **VIT Chennai, India**
