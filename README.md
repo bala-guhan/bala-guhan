@@ -9,6 +9,7 @@
 
 I am a passionate and dedicated individual with experience in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and their subdomains. My research background primarily focuses on **Natural Language Processing (NLP)** and programming, where I have developed strong technical and analytical skills.
 
+
 I am eager to expand my knowledge in new technologies and contribute to projects that align with my field of interest. Currently seeking **internship opportunities** in AI/ML and related areas, I am highly adaptable and quick to learn, enabling me to add value in diverse environments.
 
 If you believe I can contribute to your project, I am open to learning new concepts and tackling innovative challenges.  
