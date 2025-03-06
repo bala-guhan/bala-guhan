@@ -22,7 +22,7 @@ Driven by a desire to explore new ideas and make a meaningful impact, I look for
 ### **B.Tech in Computer Science Engineering (Specialization in AI and Robotics)**  
 Vellore Institute of Technology, Chennai, India  
 **2021 - 2025**  
-CGPA: 8.5/10
+CGPA: 8.52/10
 
 ### **Schooling**  
 Shaanthi Schools, Pollachi, Tamil Nadu, India  
@@ -34,17 +34,22 @@ Shaanthi Schools, Pollachi, Tamil Nadu, India
 
 ## Experience
 
-### **Junior Software Developer Intern**  
-**Digital EPCS Pvt Ltd, Chennai, India**  
-*September 2023*  
-- Developed an ML-integrated E-learning platform for better analysis and accessibility for course providers and learners.
-
 ### **MITACS Globalink Research Intern**  
 **Edmonton, Canada**  
 *May 2024 - August 2024*  
 - Developed a next-word predictor using binary net to optimize model training.
 - Worked on a Python library to interface Large Language Models with non-technical users, focusing on prompt engineering.
 - Contributed to a key phrase extraction project under the guidance of Dr. Maiga Chang.
+
+### **Junior Software Developer Intern**  
+**Digital EPCS Pvt Ltd, Chennai, India**  
+*September 2023*  
+- Developed an ML-integrated E-learning platform for better analysis and accessibility for course providers and learners.
+
+### **Full Stack Web development Freelancer**
+*Dec 2024 - Present*
+**Projects**
+- Landing Page => ![website](https://monomer-plastics.vercel.app/)
 
 ### **Krypthon Hackathon**  
 *April 2023*  
@@ -79,7 +84,7 @@ I am crafting a comprehensive literature review focusing on the **Evolution of L
 ## Skills & Expertise
 
 **Programming Languages**: C, C++, Java, Python, JavaScript, HTML, CSS, Kotlin, PHP  
-**Development Frameworks**: Node.js, React, Firebase, Flutter, MongoDB, MySQL, Flask, Three.js, Blender, Streamlit, Gradio, UI Path  
+**Development Frameworks**: Node.js, React, Firebase, Flutter, MongoDB, MySQL, Flask, Three.js, Blender, Streamlit, Gradio, UI Path, Django, 
 **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, NLTK, LangChain, Stable Diffusion, Dialogflow, CNTK  
 **Hardware**: Arduino, Raspberry Pi, Jetson Nano, ESP32  
 
