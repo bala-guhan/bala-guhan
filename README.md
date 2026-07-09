@@ -1,16 +1,25 @@
-### Bala Guhanesh
-**Engineer - [Agentic AI/Voice AI]**
+```text
+     ___________            bala@guhanesh
+    /           \           --------------------------------------------------
+   |             |          . OS: ..................... Windows 11, Android 14, Linux
+   |   O     O   |          . Uptime: ................. 22 years, 7 months, 29 days
+   |             |          . Host: ................... 2care AI Inc
+   |    \___/    |          . Kernel: ................. Software Engineer [Agentic/Voice AI]
+   |             |          . IDE: .................... VS Code 1.96.0
+    \___________/
+         | |                . Languages.Programming: .. Python, TypeScript, Go
+         | |                . Languages.Computer: ..... HTML, CSS, JSON, YAML
+       _______              . Languages.Real: ......... English, Tamil
+      |       |
+      |_______|             - Contact ----------------------------------------
+                            . Email.Personal: ......... gsbalaguhanesh@gmail.com
+                            . Email.Work: ............. bala.guhanesh@2care.ai
+                            . LinkedIn: ............... linkedin.com/in/balaguhanesh
+                            . X.com: .................. @balaguhanesh
+                            . GitHub: ................. github.com/balaguhanesh
 
-Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/balaguhanesh) · gsbalaguhanesh@gmail.com
-
----
-
-**Currently**
-- Building AI voice infrastructure at [2care AI](https://2care.ai) — full-duplex speech pipelines and an STT/TTS eval harness benchmarked on WER, latency, and code-switching accuracy.
-- Independent research on code-switching ASR, Human Computer Interaction(HCI) Systems.
-- Tracking the shift from turn-taking systems toward native full-duplex interaction models
-
-**Highlights**
--  Best Paper Award, ICAMAC 2025 — CodeSync (multi-agent program synthesis)
--  Winner, V-Medithon & AIdev hackathons
--  MITACS Globalink Research Fellowship (Canada)
+                            - GitHub Stats -----------------------------------
+                            . Public repos: ........... 4
+                            . Followers: .............. 6
+                            . Account age: ............ 3 years, 3 months
+```
